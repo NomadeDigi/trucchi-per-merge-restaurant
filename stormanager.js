@@ -1,6 +1,6 @@
 // storageManager.js
 // Utility module for handling local data in a browser (offline-friendly)
-// Author: [TuoNome] - For educational purposes only
+// For educational purposes only
 
 const StorageManager = (() => {
   const prefix = 'nomadeDigi_';
